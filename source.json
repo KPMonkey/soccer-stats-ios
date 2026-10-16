@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.6.1",
+          "buildVersion": "21",
+          "localizedDescription": "- If reading a schedule fails, the message now says why (for example, the\n  service isn't set up or Claude is busy), instead of a general error",
+          "date": "2026-10-16T22:11:18.170Z",
+          "size": 1624595,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.1.ipa"
+        },
+        {
           "version": "1.6.0",
           "buildVersion": "20",
           "localizedDescription": "- Import schedule from a photo: on a season's Events tab, take a photo or\n  screenshot of a schedule (or pick a PDF). Claude reads the games, you check\n  and fix them, and they're added as upcoming games for your ★ player(s).\n  Dates that already have a game are skipped by default\n- Games can have a kickoff time, home/away, and location (set on import or in\n  the match form), shown on upcoming games",
@@ -43,20 +51,12 @@
           "date": "2026-10-16T20:19:06.618Z",
           "size": 1619299,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.3.0.ipa"
-        },
-        {
-          "version": "1.2.1",
-          "buildVersion": "16",
-          "localizedDescription": "- Removed the 1st half / 2nd half switch from the live scoring screen; the\n  play-by-play shows just the time",
-          "date": "2026-10-16T19:22:41.271Z",
-          "size": 1614084,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.2.1.ipa"
         }
       ],
-      "version": "1.6.0",
-      "versionDate": "2026-10-16T21:54:02.427Z",
-      "size": 1624545,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.0.ipa",
+      "version": "1.6.1",
+      "versionDate": "2026-10-16T22:11:18.170Z",
+      "size": 1624595,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.1.ipa",
       "appPermissions": {}
     }
   ]
