@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.2.1",
+          "buildVersion": "16",
+          "localizedDescription": "- Removed the 1st half / 2nd half switch from the live scoring screen; the\n  play-by-play shows just the time",
+          "date": "2026-10-16T19:22:41.271Z",
+          "size": 1614084,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.2.1.ipa"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "15",
           "localizedDescription": "- The screen stays awake on the live scoring page, so the phone doesn't\n  lock mid-game",
@@ -35,10 +43,10 @@
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.0.13.ipa"
         }
       ],
-      "version": "1.2.0",
-      "versionDate": "2026-10-16T19:14:45.809Z",
-      "size": 1614240,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.2.0.ipa",
+      "version": "1.2.1",
+      "versionDate": "2026-10-16T19:22:41.271Z",
+      "size": 1614084,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.2.1.ipa",
       "appPermissions": {}
     }
   ]
