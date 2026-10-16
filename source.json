@@ -13,16 +13,24 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "14",
+          "localizedDescription": "- Live scoring screen: score a game as it happens with big Goal, Assist,\n  Missed shot, card and Opponent goal buttons, a running score, 1st/2nd half\n  switch, play-by-play with Undo, and a Stats tab\n- Tapping Goal asks who scored: your player, a teammate, or a teammate\n  assisted by your player\n- \"Start match\" now opens the live scoring screen, and every match has a\n  Live button\n- App version shown at the bottom of the Seasons screen",
+          "date": "2026-10-16T19:11:19.786Z",
+          "size": 1608616,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.1.0.ipa"
+        },
+        {
           "version": "1.0.13",
           "date": "2026-10-16T19:07:09.810Z",
           "size": 1593485,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.0.13.ipa"
         }
       ],
-      "version": "1.0.13",
-      "versionDate": "2026-10-16T19:07:09.810Z",
-      "size": 1593485,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.0.13.ipa",
+      "version": "1.1.0",
+      "versionDate": "2026-10-16T19:11:19.786Z",
+      "size": 1608616,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.1.0.ipa",
       "appPermissions": {}
     }
   ]
