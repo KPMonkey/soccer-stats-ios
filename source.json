@@ -2,5 +2,28 @@
   "name": "Soccer Stats",
   "identifier": "com.soccerstats.app.source",
   "iconURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/icon.png",
-  "apps": []
+  "apps": [
+    {
+      "name": "Soccer Stats",
+      "bundleIdentifier": "com.soccerstats.app",
+      "developerName": "Soccer Stats",
+      "subtitle": "Track goals, assists, and match stats",
+      "localizedDescription": "Track your player’s goals, assists, and match stats across seasons, and score games live from the sideline.",
+      "iconURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/icon.png",
+      "tintColor": "166534",
+      "versions": [
+        {
+          "version": "1.0.13",
+          "date": "2026-10-16T19:07:09.810Z",
+          "size": 1593485,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.0.13.ipa"
+        }
+      ],
+      "version": "1.0.13",
+      "versionDate": "2026-10-16T19:07:09.810Z",
+      "size": 1593485,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.0.13.ipa",
+      "appPermissions": {}
+    }
+  ]
 }
