@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.6.4",
+          "buildVersion": "25",
+          "localizedDescription": "- iPhone app: swipe-back now actually works. Put your thumb on the left edge\n  and drag right: the page follows your finger, and letting go past a third of\n  the screen (or flicking) goes back; letting go sooner springs back",
+          "date": "2026-10-17T02:38:45.592Z",
+          "size": 1625039,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.4.ipa"
+        },
+        {
           "version": "1.6.3",
           "buildVersion": "24",
           "localizedDescription": "- Fixed: swiping in from the left edge to go back didn't work in the iPhone\n  app (a style rule meant to stop pages bouncing also blocked the swipe)",
@@ -43,20 +51,12 @@
           "date": "2026-10-16T21:54:02.427Z",
           "size": 1624545,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.0.ipa"
-        },
-        {
-          "version": "1.5.0",
-          "buildVersion": "19",
-          "localizedDescription": "- Players now live entirely under each season's team: the Players tab is\n  gone from the bottom bar\n- Season pages have three tabs: Events (start/log matches, upcoming games\n  and results), Team (the roster) and Stats (totals and chart)\n- On the Team tab, tap a player's name to edit them (name, position, ★, and\n  this team's photo and number), and pick their position when adding them\n- Taking a teammate off their only team deletes them; your ★ players are\n  always kept\n- Importing a list always goes into a team\n- Duplicate a team for another season (Team tab, or the season's ⋮ menu):\n  pick the season and optionally rename the team; the roster, numbers and\n  photos carry over, games and stats don't",
-          "date": "2026-10-16T21:10:50.260Z",
-          "size": 1621620,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.5.0.ipa"
         }
       ],
-      "version": "1.6.3",
-      "versionDate": "2026-10-17T01:34:29.292Z",
-      "size": 1625546,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.3.ipa",
+      "version": "1.6.4",
+      "versionDate": "2026-10-17T02:38:45.592Z",
+      "size": 1625039,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.4.ipa",
       "appPermissions": {}
     }
   ]
