@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.7.0",
+          "buildVersion": "26",
+          "localizedDescription": "- Events tab results show the final score with a W / L / D badge, plus your\n  player's goals and assists\n- Upcoming games show date, time and home/away, then the location on its own\n  line, with Log stats and Live buttons underneath; away games read \"at …\"\n- Removed the Live button from past games, the goal/assist +/− buttons, and\n  the duplicate button from the cards (Duplicate match is inside each game)\n- Fixed: on iPhone, the date and kickoff fields in the match form (and the\n  schedule import) spilled past their space and ran into other fields",
+          "date": "2026-10-17T23:10:26.785Z",
+          "size": 1625048,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.0.ipa"
+        },
+        {
           "version": "1.6.4",
           "buildVersion": "25",
           "localizedDescription": "- iPhone app: swipe-back now actually works. Put your thumb on the left edge\n  and drag right: the page follows your finger, and letting go past a third of\n  the screen (or flicking) goes back; letting go sooner springs back",
@@ -43,20 +51,12 @@
           "date": "2026-10-16T22:11:18.170Z",
           "size": 1624595,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.1.ipa"
-        },
-        {
-          "version": "1.6.0",
-          "buildVersion": "20",
-          "localizedDescription": "- Import schedule from a photo: on a season's Events tab, take a photo or\n  screenshot of a schedule (or pick a PDF). Claude reads the games, you check\n  and fix them, and they're added as upcoming games for your ★ player(s).\n  Dates that already have a game are skipped by default\n- Games can have a kickoff time, home/away, and location (set on import or in\n  the match form), shown on upcoming games",
-          "date": "2026-10-16T21:54:02.427Z",
-          "size": 1624545,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.0.ipa"
         }
       ],
-      "version": "1.6.4",
-      "versionDate": "2026-10-17T02:38:45.592Z",
-      "size": 1625039,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.4.ipa",
+      "version": "1.7.0",
+      "versionDate": "2026-10-17T23:10:26.785Z",
+      "size": 1625048,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.0.ipa",
       "appPermissions": {}
     }
   ]
