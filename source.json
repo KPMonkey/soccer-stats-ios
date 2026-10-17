@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.6.2",
+          "buildVersion": "23",
+          "localizedDescription": "- iPhone app: swipe in from the left edge of the screen to go back a page,\n  like other iPhone apps (and from the right edge to go forward again)",
+          "date": "2026-10-17T00:05:02.812Z",
+          "size": 1625575,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.2.ipa"
+        },
+        {
           "version": "1.6.1",
           "buildVersion": "21",
           "localizedDescription": "- If reading a schedule fails, the message now says why (for example, the\n  service isn't set up or Claude is busy), instead of a general error",
@@ -43,20 +51,12 @@
           "date": "2026-10-16T20:50:22.007Z",
           "size": 1622462,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.4.0.ipa"
-        },
-        {
-          "version": "1.3.0",
-          "buildVersion": "17",
-          "localizedDescription": "- Photos for players and seasons/teams: choose one from your phone (or take\n  one) or paste a link, then drag and zoom to crop it\n- Photos show on the Players and Seasons lists, the season page, and the\n  live scoring screen\n- Jersey numbers: a usual number per player, plus a different number per\n  season/team where needed (set in the season's Edit). Shown on the Players\n  list, the season page, and live scoring\n- Import a team: paste a list of names and numbers (or copy them from a\n  spreadsheet) from Players → Import team or a season's menu → Import\n  players. Existing players aren't duplicated; numbers imported into a\n  season are saved for that team",
-          "date": "2026-10-16T20:19:06.618Z",
-          "size": 1619299,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.3.0.ipa"
         }
       ],
-      "version": "1.6.1",
-      "versionDate": "2026-10-16T22:11:18.170Z",
-      "size": 1624595,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.1.ipa",
+      "version": "1.6.2",
+      "versionDate": "2026-10-17T00:05:02.812Z",
+      "size": 1625575,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.2.ipa",
       "appPermissions": {}
     }
   ]
