@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.3.0",
+          "buildVersion": "38",
+          "localizedDescription": "- The season page is much more compact, so your games start near the top\n  - The team name and record now sit under the season name in the header\n  - The Events, Team and Stats tabs are slimmer\n  - Start match, Log match, Import from photo and Add to calendar moved into\n    a green + button in the bottom corner of the Events tab\n- The team card (photo, players, record and Edit) is now at the top of the\n  Team tab, and \"Edit team name and photo\" is in the season's ⋮ menu",
+          "date": "2026-10-18T04:08:50.698Z",
+          "size": 1826075,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.3.0.ipa"
+        },
+        {
           "version": "2.2.2",
           "buildVersion": "37",
           "localizedDescription": "- The Events tab's buttons take much less room, so the first game shows\n  without scrolling: Start match and Log match sit side by side, with small\n  Import and Calendar buttons below. Both are also in the season's ⋮ menu",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T02:22:32.242Z",
           "size": 1824490,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.1.0.ipa"
-        },
-        {
-          "version": "2.0.0",
-          "buildVersion": "33",
-          "localizedDescription": "- The Stats tab is now your player's career page: totals and goals per game,\n  milestones, a by-season table (with their number and the team's record),\n  goals & assists by season, and their best game. Pick a season to zoom in\n- Milestones: every 10 career goals and assists, first goal for each team,\n  hat tricks, and scoring streaks of 3+ games\n- Season Stats tab: a results strip (tap a game) and goals & assists by game\n  bars replace the line chart\n- Game recap: a shareable picture of a game (score, result, your player's\n  goals and assists, photo and milestones). Opens after Done on the live\n  screen, and from Share recap on any played game\n- Head-to-head: upcoming games show your last results against that opponent\n  (any season), or \"First meeting\"\n- Friendlies don't count toward any stats (career totals, milestones, best\n  game, charts, season totals, head-to-head); they still show in the Events\n  list and can be shared as a recap",
-          "date": "2026-10-18T02:10:52.265Z",
-          "size": 1823316,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.0.0.ipa"
         }
       ],
-      "version": "2.2.2",
-      "versionDate": "2026-10-18T03:33:05.080Z",
-      "size": 1825497,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.2.ipa",
+      "version": "2.3.0",
+      "versionDate": "2026-10-18T04:08:50.698Z",
+      "size": 1826075,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.3.0.ipa",
       "appPermissions": {}
     }
   ]
