@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.4.0",
+          "buildVersion": "39",
+          "localizedDescription": "- The Live button is now called \"Score game\"\n- Today's games keep their Score game button all day, even after you've\n  finished scoring, so you can go back in and fix things\n- Mark a game as \"Guest player\" when your player plays for another team, and\n  optionally say which team. It gets a Guest tag. Your player's goals and\n  assists still count, but the result stays out of the team's record,\n  standings and head-to-head",
+          "date": "2026-10-18T17:25:39.897Z",
+          "size": 1826489,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.4.0.ipa"
+        },
+        {
           "version": "2.3.0",
           "buildVersion": "38",
           "localizedDescription": "- The season page is much more compact, so your games start near the top\n  - The team name and record now sit under the season name in the header\n  - The Events, Team and Stats tabs are slimmer\n  - Start match, Log match, Import from photo and Add to calendar moved into\n    a green + button in the bottom corner of the Events tab\n- The team card (photo, players, record and Edit) is now at the top of the\n  Team tab, and \"Edit team name and photo\" is in the season's ⋮ menu",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T02:35:35.984Z",
           "size": 1825088,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.0.ipa"
-        },
-        {
-          "version": "2.1.0",
-          "buildVersion": "34",
-          "localizedDescription": "- Import results from a photo: the schedule import also reads final scores.\n  Results fill in games already in the app (matched by date) and mark them\n  played; games that aren't in the app yet are added with their score. Each\n  game is labelled New, Update score, Update details or Already in app before\n  you save, and scores can be fixed in the list\n- For games already in the app, the list shows exactly what would change\n  (score, opponent name, kickoff, location, home/away — \"old → new\"). The\n  photo's details replace the old ones unless you tick \"Keep the app's\n  details\" on that game",
-          "date": "2026-10-18T02:22:32.242Z",
-          "size": 1824490,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.1.0.ipa"
         }
       ],
-      "version": "2.3.0",
-      "versionDate": "2026-10-18T04:08:50.698Z",
-      "size": 1826075,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.3.0.ipa",
+      "version": "2.4.0",
+      "versionDate": "2026-10-18T17:25:39.897Z",
+      "size": 1826489,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.4.0.ipa",
       "appPermissions": {}
     }
   ]
