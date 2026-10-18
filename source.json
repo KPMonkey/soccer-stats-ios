@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.2.0",
+          "buildVersion": "35",
+          "localizedDescription": "- Games can have a Match # (read from the schedule, or typed in the match\n  form), shown on game cards\n- Fixed: importing results with two games on one day could put both results\n  on the same game. Imports now pair each game with at most one game in the\n  app, using the Match # first, then date + kickoff, then date + opponent,\n  and only then date alone when it's the only game that day on both sides.\n  A game the app can't pair for sure is added as new, with a note to check\n  for a duplicate\n- A game paired by Match # on a different date (rescheduled) gets its new date",
+          "date": "2026-10-18T02:35:35.984Z",
+          "size": 1825088,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.0.ipa"
+        },
+        {
           "version": "2.1.0",
           "buildVersion": "34",
           "localizedDescription": "- Import results from a photo: the schedule import also reads final scores.\n  Results fill in games already in the app (matched by date) and mark them\n  played; games that aren't in the app yet are added with their score. Each\n  game is labelled New, Update score, Update details or Already in app before\n  you save, and scores can be fixed in the list\n- For games already in the app, the list shows exactly what would change\n  (score, opponent name, kickoff, location, home/away — \"old → new\"). The\n  photo's details replace the old ones unless you tick \"Keep the app's\n  details\" on that game",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T01:40:59.638Z",
           "size": 1626043,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.8.0.ipa"
-        },
-        {
-          "version": "1.7.1",
-          "buildVersion": "27",
-          "localizedDescription": "- Live scoring: once anything is recorded, a blank score counts as 0, so a\n  game with no goals ends 0–0 (and goals count up from 0–0)\n- Tapping Done on the live screen with nothing recorded asks whether to save\n  the game as a 0–0 result\n- Results with only one side's score filled in show the other side as 0",
-          "date": "2026-10-18T00:31:39.554Z",
-          "size": 1625214,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.1.ipa"
         }
       ],
-      "version": "2.1.0",
-      "versionDate": "2026-10-18T02:22:32.242Z",
-      "size": 1824490,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.1.0.ipa",
+      "version": "2.2.0",
+      "versionDate": "2026-10-18T02:35:35.984Z",
+      "size": 1825088,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.0.ipa",
       "appPermissions": {}
     }
   ]
