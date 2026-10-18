@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.2.2",
+          "buildVersion": "37",
+          "localizedDescription": "- The Events tab's buttons take much less room, so the first game shows\n  without scrolling: Start match and Log match sit side by side, with small\n  Import and Calendar buttons below. Both are also in the season's ⋮ menu",
+          "date": "2026-10-18T03:33:05.080Z",
+          "size": 1825497,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.2.ipa"
+        },
+        {
           "version": "2.2.1",
           "buildVersion": "36",
           "localizedDescription": "- Games on the same day are ordered by kickoff time: in Results the latest\n  game is on top and the earliest at the bottom; Upcoming lists the earliest\n  first. Games with no kickoff time count as the start of their day\n- Importing a schedule or results now saves the Match # onto games already in\n  the app that don't have one (shown as \"Match #: none → 935\"), even when\n  nothing else changed\n- Imports compare every game detail and update whatever differs: score,\n  date (rescheduled games), kickoff, home/away, location, opponent name,\n  Match #, game vs friendly, and notes (added to yours, never replacing\n  them). Your player's stats (goals, assists, shots, minutes, position,\n  cards, play-by-play) are never touched\n- Results show your player's goals and assists as colored chips (green ⚽,\n  blue 👟), so games they contributed to stand out; games with neither show\n  just the score\n- The Match # shows as a small badge at the start of a game's date line\n- 👟 is now the assist icon everywhere (results, milestones, recap image)",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T02:10:52.265Z",
           "size": 1823316,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.0.0.ipa"
-        },
-        {
-          "version": "1.9.0",
-          "buildVersion": "31",
-          "localizedDescription": "- Game reminders (iPhone app): a notification an hour before each game with a\n  kickoff time. Turn on from the Seasons ⋮ menu; tap one to open the season\n- Add upcoming games to calendar: on a season's Events tab. The iPhone app\n  adds them straight to your calendar; the website downloads a calendar file\n- Full backup and restore: Seasons ⋮ menu → Download full backup saves\n  everything (including photos, team numbers and play-by-play); Restore from\n  backup puts it back. The Excel export is still there for reading\n- An \"Offline\" note shows when there's no connection, so you know changes are\n  saved and will sync\n- On a computer, the app stays a centered column instead of stretching across\n  the screen",
-          "date": "2026-10-18T01:55:47.979Z",
-          "size": 1825270,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.9.0.ipa"
         }
       ],
-      "version": "2.2.1",
-      "versionDate": "2026-10-18T02:51:26.282Z",
-      "size": 1825466,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.1.ipa",
+      "version": "2.2.2",
+      "versionDate": "2026-10-18T03:33:05.080Z",
+      "size": 1825497,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.2.ipa",
       "appPermissions": {}
     }
   ]
