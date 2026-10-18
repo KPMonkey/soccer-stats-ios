@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.1.0",
+          "buildVersion": "34",
+          "localizedDescription": "- Import results from a photo: the schedule import also reads final scores.\n  Results fill in games already in the app (matched by date) and mark them\n  played; games that aren't in the app yet are added with their score. Each\n  game is labelled New, Update score, Update details or Already in app before\n  you save, and scores can be fixed in the list\n- For games already in the app, the list shows exactly what would change\n  (score, opponent name, kickoff, location, home/away — \"old → new\"). The\n  photo's details replace the old ones unless you tick \"Keep the app's\n  details\" on that game",
+          "date": "2026-10-18T02:22:32.242Z",
+          "size": 1824490,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.1.0.ipa"
+        },
+        {
           "version": "2.0.0",
           "buildVersion": "33",
           "localizedDescription": "- The Stats tab is now your player's career page: totals and goals per game,\n  milestones, a by-season table (with their number and the team's record),\n  goals & assists by season, and their best game. Pick a season to zoom in\n- Milestones: every 10 career goals and assists, first goal for each team,\n  hat tricks, and scoring streaks of 3+ games\n- Season Stats tab: a results strip (tap a game) and goals & assists by game\n  bars replace the line chart\n- Game recap: a shareable picture of a game (score, result, your player's\n  goals and assists, photo and milestones). Opens after Done on the live\n  screen, and from Share recap on any played game\n- Head-to-head: upcoming games show your last results against that opponent\n  (any season), or \"First meeting\"\n- Friendlies don't count toward any stats (career totals, milestones, best\n  game, charts, season totals, head-to-head); they still show in the Events\n  list and can be shared as a recap",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T00:31:39.554Z",
           "size": 1625214,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.1.ipa"
-        },
-        {
-          "version": "1.7.0",
-          "buildVersion": "26",
-          "localizedDescription": "- Events tab results show the final score with a W / L / D badge, plus your\n  player's goals and assists\n- Upcoming games show date, time and home/away, then the location on its own\n  line, with Log stats and Live buttons underneath; away games read \"at …\"\n- Removed the Live button from past games, the goal/assist +/− buttons, and\n  the duplicate button from the cards (Duplicate match is inside each game)\n- Fixed: on iPhone, the date and kickoff fields in the match form (and the\n  schedule import) spilled past their space and ran into other fields",
-          "date": "2026-10-17T23:10:26.785Z",
-          "size": 1625048,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.0.ipa"
         }
       ],
-      "version": "2.0.0",
-      "versionDate": "2026-10-18T02:10:52.265Z",
-      "size": 1823316,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.0.0.ipa",
+      "version": "2.1.0",
+      "versionDate": "2026-10-18T02:22:32.242Z",
+      "size": 1824490,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.1.0.ipa",
       "appPermissions": {}
     }
   ]
