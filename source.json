@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "28",
+          "localizedDescription": "- Season standings: each season's record (W / L / D and points) shows on the\n  Seasons list and under the team name inside the season\n- The season's Stats tab has a Standings table (played, won, drawn, lost,\n  goals for/against, goal difference, points) and recent form\n- Counts played games with a score, 3 points a win and 1 a draw; friendlies\n  are left out, and a game logged for two of your players counts once",
+          "date": "2026-10-18T01:40:59.638Z",
+          "size": 1626043,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.8.0.ipa"
+        },
+        {
           "version": "1.7.1",
           "buildVersion": "27",
           "localizedDescription": "- Live scoring: once anything is recorded, a blank score counts as 0, so a\n  game with no goals ends 0–0 (and goals count up from 0–0)\n- Tapping Done on the live screen with nothing recorded asks whether to save\n  the game as a 0–0 result\n- Results with only one side's score filled in show the other side as 0",
@@ -43,20 +51,12 @@
           "date": "2026-10-17T01:34:29.292Z",
           "size": 1625546,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.3.ipa"
-        },
-        {
-          "version": "1.6.2",
-          "buildVersion": "23",
-          "localizedDescription": "- iPhone app: swipe in from the left edge of the screen to go back a page,\n  like other iPhone apps (and from the right edge to go forward again)",
-          "date": "2026-10-17T00:05:02.812Z",
-          "size": 1625575,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.2.ipa"
         }
       ],
-      "version": "1.7.1",
-      "versionDate": "2026-10-18T00:31:39.554Z",
-      "size": 1625214,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.1.ipa",
+      "version": "1.8.0",
+      "versionDate": "2026-10-18T01:40:59.638Z",
+      "size": 1626043,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.8.0.ipa",
       "appPermissions": {}
     }
   ]
