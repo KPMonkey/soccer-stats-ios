@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "1.7.1",
+          "buildVersion": "27",
+          "localizedDescription": "- Live scoring: once anything is recorded, a blank score counts as 0, so a\n  game with no goals ends 0–0 (and goals count up from 0–0)\n- Tapping Done on the live screen with nothing recorded asks whether to save\n  the game as a 0–0 result\n- Results with only one side's score filled in show the other side as 0",
+          "date": "2026-10-18T00:31:39.554Z",
+          "size": 1625214,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.1.ipa"
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "26",
           "localizedDescription": "- Events tab results show the final score with a W / L / D badge, plus your\n  player's goals and assists\n- Upcoming games show date, time and home/away, then the location on its own\n  line, with Log stats and Live buttons underneath; away games read \"at …\"\n- Removed the Live button from past games, the goal/assist +/− buttons, and\n  the duplicate button from the cards (Duplicate match is inside each game)\n- Fixed: on iPhone, the date and kickoff fields in the match form (and the\n  schedule import) spilled past their space and ran into other fields",
@@ -43,20 +51,12 @@
           "date": "2026-10-17T00:05:02.812Z",
           "size": 1625575,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.2.ipa"
-        },
-        {
-          "version": "1.6.1",
-          "buildVersion": "21",
-          "localizedDescription": "- If reading a schedule fails, the message now says why (for example, the\n  service isn't set up or Claude is busy), instead of a general error",
-          "date": "2026-10-16T22:11:18.170Z",
-          "size": 1624595,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.6.1.ipa"
         }
       ],
-      "version": "1.7.0",
-      "versionDate": "2026-10-17T23:10:26.785Z",
-      "size": 1625048,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.0.ipa",
+      "version": "1.7.1",
+      "versionDate": "2026-10-18T00:31:39.554Z",
+      "size": 1625214,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-1.7.1.ipa",
       "appPermissions": {}
     }
   ]
