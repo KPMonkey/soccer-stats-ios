@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.5.1",
+          "buildVersion": "41",
+          "localizedDescription": "- Opening Score game on a future game by mistake no longer moves it to\n  Results. Tapping Done just goes back, and if you tapped anything it offers\n  to clear it and keep the game in Upcoming\n- A future game that already ended up in Results by mistake shows its Score\n  game button again: open it and tap Done to put it back in Upcoming",
+          "date": "2026-10-19T20:20:50.361Z",
+          "size": 1826791,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.1.ipa"
+        },
+        {
           "version": "2.5.0",
           "buildVersion": "40",
           "localizedDescription": "- Today's finished games now have a \"Finish scoring\" button next to Score\n  game. Tap it when you're done and the Score game button goes away\n- Chart dates are easier to read: they're shorter (8/9 instead of 08-09) and\n  slanted so they don't run together",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T03:33:05.080Z",
           "size": 1825497,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.2.ipa"
-        },
-        {
-          "version": "2.2.1",
-          "buildVersion": "36",
-          "localizedDescription": "- Games on the same day are ordered by kickoff time: in Results the latest\n  game is on top and the earliest at the bottom; Upcoming lists the earliest\n  first. Games with no kickoff time count as the start of their day\n- Importing a schedule or results now saves the Match # onto games already in\n  the app that don't have one (shown as \"Match #: none → 935\"), even when\n  nothing else changed\n- Imports compare every game detail and update whatever differs: score,\n  date (rescheduled games), kickoff, home/away, location, opponent name,\n  Match #, game vs friendly, and notes (added to yours, never replacing\n  them). Your player's stats (goals, assists, shots, minutes, position,\n  cards, play-by-play) are never touched\n- Results show your player's goals and assists as colored chips (green ⚽,\n  blue 👟), so games they contributed to stand out; games with neither show\n  just the score\n- The Match # shows as a small badge at the start of a game's date line\n- 👟 is now the assist icon everywhere (results, milestones, recap image)",
-          "date": "2026-10-18T02:51:26.282Z",
-          "size": 1825466,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.1.ipa"
         }
       ],
-      "version": "2.5.0",
-      "versionDate": "2026-10-19T03:03:43.616Z",
-      "size": 1826633,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.0.ipa",
+      "version": "2.5.1",
+      "versionDate": "2026-10-19T20:20:50.361Z",
+      "size": 1826791,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.1.ipa",
       "appPermissions": {}
     }
   ]
