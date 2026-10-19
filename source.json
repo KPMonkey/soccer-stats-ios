@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.5.2",
+          "buildVersion": "42",
+          "localizedDescription": "- Games dated after today always show under Upcoming, even if one was\n  marked played by mistake. They stay out of the team's record and your\n  player's stats until the day comes, with nothing to fix by hand",
+          "date": "2026-10-19T20:25:30.593Z",
+          "size": 1826826,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.2.ipa"
+        },
+        {
           "version": "2.5.1",
           "buildVersion": "41",
           "localizedDescription": "- Opening Score game on a future game by mistake no longer moves it to\n  Results. Tapping Done just goes back, and if you tapped anything it offers\n  to clear it and keep the game in Upcoming\n- A future game that already ended up in Results by mistake shows its Score\n  game button again: open it and tap Done to put it back in Upcoming",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T04:08:50.698Z",
           "size": 1826075,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.3.0.ipa"
-        },
-        {
-          "version": "2.2.2",
-          "buildVersion": "37",
-          "localizedDescription": "- The Events tab's buttons take much less room, so the first game shows\n  without scrolling: Start match and Log match sit side by side, with small\n  Import and Calendar buttons below. Both are also in the season's ⋮ menu",
-          "date": "2026-10-18T03:33:05.080Z",
-          "size": 1825497,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.2.ipa"
         }
       ],
-      "version": "2.5.1",
-      "versionDate": "2026-10-19T20:20:50.361Z",
-      "size": 1826791,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.1.ipa",
+      "version": "2.5.2",
+      "versionDate": "2026-10-19T20:25:30.593Z",
+      "size": 1826826,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.2.ipa",
       "appPermissions": {}
     }
   ]
