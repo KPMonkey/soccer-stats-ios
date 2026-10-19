@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.5.0",
+          "buildVersion": "40",
+          "localizedDescription": "- Today's finished games now have a \"Finish scoring\" button next to Score\n  game. Tap it when you're done and the Score game button goes away\n- Chart dates are easier to read: they're shorter (8/9 instead of 08-09) and\n  slanted so they don't run together",
+          "date": "2026-10-19T03:03:43.616Z",
+          "size": 1826633,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.0.ipa"
+        },
+        {
           "version": "2.4.0",
           "buildVersion": "39",
           "localizedDescription": "- The Live button is now called \"Score game\"\n- Today's games keep their Score game button all day, even after you've\n  finished scoring, so you can go back in and fix things\n- Mark a game as \"Guest player\" when your player plays for another team, and\n  optionally say which team. It gets a Guest tag. Your player's goals and\n  assists still count, but the result stays out of the team's record,\n  standings and head-to-head",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T02:51:26.282Z",
           "size": 1825466,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.1.ipa"
-        },
-        {
-          "version": "2.2.0",
-          "buildVersion": "35",
-          "localizedDescription": "- Games can have a Match # (read from the schedule, or typed in the match\n  form), shown on game cards\n- Fixed: importing results with two games on one day could put both results\n  on the same game. Imports now pair each game with at most one game in the\n  app, using the Match # first, then date + kickoff, then date + opponent,\n  and only then date alone when it's the only game that day on both sides.\n  A game the app can't pair for sure is added as new, with a note to check\n  for a duplicate\n- A game paired by Match # on a different date (rescheduled) gets its new date",
-          "date": "2026-10-18T02:35:35.984Z",
-          "size": 1825088,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.2.0.ipa"
         }
       ],
-      "version": "2.4.0",
-      "versionDate": "2026-10-18T17:25:39.897Z",
-      "size": 1826489,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.4.0.ipa",
+      "version": "2.5.0",
+      "versionDate": "2026-10-19T03:03:43.616Z",
+      "size": 1826633,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.0.ipa",
       "appPermissions": {}
     }
   ]
