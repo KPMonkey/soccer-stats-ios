@@ -58,6 +58,30 @@
       "size": 1826826,
       "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.2.ipa",
       "appPermissions": {}
+    },
+    {
+      "name": "Soccer Stats Beta",
+      "bundleIdentifier": "com.soccerstats.app.beta",
+      "subtitle": "Test builds of upcoming features",
+      "localizedDescription": "Test builds of Soccer Stats with features that aren’t released yet. Installs alongside the normal app.",
+      "developerName": "Soccer Stats",
+      "iconURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/icon.png",
+      "tintColor": "166534",
+      "versions": [
+        {
+          "version": "2.5.43",
+          "buildVersion": "43",
+          "localizedDescription": "Dynamic Island test: start Score game on today's game and look at the Dynamic Island and lock screen.",
+          "date": "2026-10-20T19:19:05.196Z",
+          "size": 1882187,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.43.ipa"
+        }
+      ],
+      "version": "2.5.43",
+      "versionDate": "2026-10-20T19:19:05.196Z",
+      "size": 1882187,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.43.ipa",
+      "appPermissions": {}
     }
   ]
 }
