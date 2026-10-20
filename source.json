@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.7.0",
+          "buildVersion": "49",
+          "localizedDescription": "- Tap an upcoming game's location to open it in Google Maps (the Google\n  Maps app if you have it, otherwise Google Maps in Safari)",
+          "date": "2026-10-20T20:41:51.535Z",
+          "size": 1898800,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.7.0.ipa"
+        },
+        {
           "version": "2.6.0",
           "buildVersion": "48",
           "localizedDescription": "- Live score in the Dynamic Island and on the lock screen: while you score a\n  game in the iPhone app, the score and your player's goals and assists show\n  up there and update with every tap\n  - Long-press the Dynamic Island for both team names and the full score\n  - Tap it (or the lock screen card) to jump back to the scoring screen\n  - After Done, the final score stays on the lock screen for 30 minutes\n  - If it doesn't appear, check Settings → Soccer Stats → Live Activities",
@@ -43,20 +51,12 @@
           "date": "2026-10-19T03:03:43.616Z",
           "size": 1826633,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.0.ipa"
-        },
-        {
-          "version": "2.4.0",
-          "buildVersion": "39",
-          "localizedDescription": "- The Live button is now called \"Score game\"\n- Today's games keep their Score game button all day, even after you've\n  finished scoring, so you can go back in and fix things\n- Mark a game as \"Guest player\" when your player plays for another team, and\n  optionally say which team. It gets a Guest tag. Your player's goals and\n  assists still count, but the result stays out of the team's record,\n  standings and head-to-head",
-          "date": "2026-10-18T17:25:39.897Z",
-          "size": 1826489,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.4.0.ipa"
         }
       ],
-      "version": "2.6.0",
-      "versionDate": "2026-10-20T20:25:12.727Z",
-      "size": 1898532,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.6.0.ipa",
+      "version": "2.7.0",
+      "versionDate": "2026-10-20T20:41:51.535Z",
+      "size": 1898800,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.7.0.ipa",
       "appPermissions": {}
     },
     {
