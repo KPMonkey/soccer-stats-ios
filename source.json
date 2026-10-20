@@ -6,12 +6,20 @@
     {
       "name": "Soccer Stats",
       "bundleIdentifier": "com.soccerstats.app",
-      "developerName": "Soccer Stats",
       "subtitle": "Track goals, assists, and match stats",
       "localizedDescription": "Track your player’s goals, assists, and match stats across seasons, and score games live from the sideline.",
+      "developerName": "Soccer Stats",
       "iconURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/icon.png",
       "tintColor": "166534",
       "versions": [
+        {
+          "version": "2.6.0",
+          "buildVersion": "48",
+          "localizedDescription": "- Live score in the Dynamic Island and on the lock screen: while you score a\n  game in the iPhone app, the score and your player's goals and assists show\n  up there and update with every tap\n  - Long-press the Dynamic Island for both team names and the full score\n  - Tap it (or the lock screen card) to jump back to the scoring screen\n  - After Done, the final score stays on the lock screen for 30 minutes\n  - If it doesn't appear, check Settings → Soccer Stats → Live Activities",
+          "date": "2026-10-20T20:25:12.727Z",
+          "size": 1898532,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.6.0.ipa"
+        },
         {
           "version": "2.5.2",
           "buildVersion": "42",
@@ -43,20 +51,12 @@
           "date": "2026-10-18T17:25:39.897Z",
           "size": 1826489,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.4.0.ipa"
-        },
-        {
-          "version": "2.3.0",
-          "buildVersion": "38",
-          "localizedDescription": "- The season page is much more compact, so your games start near the top\n  - The team name and record now sit under the season name in the header\n  - The Events, Team and Stats tabs are slimmer\n  - Start match, Log match, Import from photo and Add to calendar moved into\n    a green + button in the bottom corner of the Events tab\n- The team card (photo, players, record and Edit) is now at the top of the\n  Team tab, and \"Edit team name and photo\" is in the season's ⋮ menu",
-          "date": "2026-10-18T04:08:50.698Z",
-          "size": 1826075,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.3.0.ipa"
         }
       ],
-      "version": "2.5.2",
-      "versionDate": "2026-10-19T20:25:30.593Z",
-      "size": 1826826,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.2.ipa",
+      "version": "2.6.0",
+      "versionDate": "2026-10-20T20:25:12.727Z",
+      "size": 1898532,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.6.0.ipa",
       "appPermissions": {}
     },
     {
