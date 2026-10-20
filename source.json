@@ -69,6 +69,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.5.47",
+          "buildVersion": "47",
+          "localizedDescription": "Tap the live score to open the scoring screen. After Done, the final score stays on the lock screen for 30 minutes.",
+          "date": "2026-10-20T20:17:37.235Z",
+          "size": 1898563,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.47.ipa"
+        },
+        {
           "version": "2.5.44",
           "buildVersion": "44",
           "localizedDescription": "Fix: the live score code wasn't connected. The scoring screen now shows a small 'Live:' status next to Done.",
@@ -85,10 +93,10 @@
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.43.ipa"
         }
       ],
-      "version": "2.5.44",
-      "versionDate": "2026-10-20T20:02:29.097Z",
-      "size": 1882465,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.44.ipa",
+      "version": "2.5.47",
+      "versionDate": "2026-10-20T20:17:37.235Z",
+      "size": 1898563,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.47.ipa",
       "appPermissions": {}
     }
   ]
