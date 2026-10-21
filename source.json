@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.8.1",
+          "buildVersion": "51",
+          "localizedDescription": "- Mark a game as \"Didn't play (missed this game)\" when your player wasn't\n  there. The result still counts toward the team's record and standings, but\n  it's left out of your player's games, goals, assists, milestones and\n  charts. The game gets a Missed tag\n- (2.8.0 never reached the iPhone app because GitHub's build Macs were\n  backed up; this is the same update)",
+          "date": "2026-10-21T14:15:45.943Z",
+          "size": 1895579,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.8.1.ipa"
+        },
+        {
           "version": "2.7.0",
           "buildVersion": "49",
           "localizedDescription": "- Tap an upcoming game's location to open it in Google Maps (the Google\n  Maps app if you have it, otherwise Google Maps in Safari)",
@@ -43,20 +51,12 @@
           "date": "2026-10-19T20:20:50.361Z",
           "size": 1826791,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.1.ipa"
-        },
-        {
-          "version": "2.5.0",
-          "buildVersion": "40",
-          "localizedDescription": "- Today's finished games now have a \"Finish scoring\" button next to Score\n  game. Tap it when you're done and the Score game button goes away\n- Chart dates are easier to read: they're shorter (8/9 instead of 08-09) and\n  slanted so they don't run together",
-          "date": "2026-10-19T03:03:43.616Z",
-          "size": 1826633,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.0.ipa"
         }
       ],
-      "version": "2.7.0",
-      "versionDate": "2026-10-20T20:41:51.535Z",
-      "size": 1898800,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.7.0.ipa",
+      "version": "2.8.1",
+      "versionDate": "2026-10-21T14:15:45.943Z",
+      "size": 1895579,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.8.1.ipa",
       "appPermissions": {}
     },
     {
