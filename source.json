@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.11.0",
+          "buildVersion": "54",
+          "localizedDescription": "- Share a live score link: tap \"📡 Share live\" on the scoring screen and\n  send the link. Whoever opens it sees the score update live in their\n  browser (no account needed), with your player's first name, number,\n  goals and assists and a timeline of the game, then FINAL once you tap\n  Finish scoring\n- Only that game's score is shared; the rest of your data stays private",
+          "date": "2026-10-24T20:05:38.466Z",
+          "size": 1898103,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.11.0.ipa"
+        },
+        {
           "version": "2.10.0",
           "buildVersion": "53",
           "localizedDescription": "- Game recap: a \"Show milestones\" switch under the card takes the\n  milestones off the image you share. Your choice is remembered\n- The recap shows the score and milestones even before you tap Finish\n  scoring (it showed \"Final\" with no score)\n- Goals and assists both show their count on the recap, e.g. ⚽ × 6 👟 × 1\n- Closing the share sheet without sharing no longer shows an error",
@@ -43,20 +51,12 @@
           "date": "2026-10-20T20:41:51.535Z",
           "size": 1898800,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.7.0.ipa"
-        },
-        {
-          "version": "2.6.0",
-          "buildVersion": "48",
-          "localizedDescription": "- Live score in the Dynamic Island and on the lock screen: while you score a\n  game in the iPhone app, the score and your player's goals and assists show\n  up there and update with every tap\n  - Long-press the Dynamic Island for both team names and the full score\n  - Tap it (or the lock screen card) to jump back to the scoring screen\n  - After Done, the final score stays on the lock screen for 30 minutes\n  - If it doesn't appear, check Settings → Soccer Stats → Live Activities",
-          "date": "2026-10-20T20:25:12.727Z",
-          "size": 1898532,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.6.0.ipa"
         }
       ],
-      "version": "2.10.0",
-      "versionDate": "2026-10-24T18:41:19.377Z",
-      "size": 1895851,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.10.0.ipa",
+      "version": "2.11.0",
+      "versionDate": "2026-10-24T20:05:38.466Z",
+      "size": 1898103,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.11.0.ipa",
       "appPermissions": {}
     },
     {
