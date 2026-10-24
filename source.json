@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.9.0",
+          "buildVersion": "52",
+          "localizedDescription": "- Today's games stay in Upcoming until you tap \"Finish scoring\" on the game\n  (or the day ends), so you can close and reopen scoring as often as you\n  like. Once scoring starts, the card shows \"In progress\" and the score\n- Saving a game's details (like ticking Guest player) no longer moves\n  today's game to Results",
+          "date": "2026-10-24T11:41:55.280Z",
+          "size": 1895634,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.9.0.ipa"
+        },
+        {
           "version": "2.8.1",
           "buildVersion": "51",
           "localizedDescription": "- Mark a game as \"Didn't play (missed this game)\" when your player wasn't\n  there. The result still counts toward the team's record and standings, but\n  it's left out of your player's games, goals, assists, milestones and\n  charts. The game gets a Missed tag\n- (2.8.0 never reached the iPhone app because GitHub's build Macs were\n  backed up; this is the same update)",
@@ -43,20 +51,12 @@
           "date": "2026-10-19T20:25:30.593Z",
           "size": 1826826,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.2.ipa"
-        },
-        {
-          "version": "2.5.1",
-          "buildVersion": "41",
-          "localizedDescription": "- Opening Score game on a future game by mistake no longer moves it to\n  Results. Tapping Done just goes back, and if you tapped anything it offers\n  to clear it and keep the game in Upcoming\n- A future game that already ended up in Results by mistake shows its Score\n  game button again: open it and tap Done to put it back in Upcoming",
-          "date": "2026-10-19T20:20:50.361Z",
-          "size": 1826791,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.5.1.ipa"
         }
       ],
-      "version": "2.8.1",
-      "versionDate": "2026-10-21T14:15:45.943Z",
-      "size": 1895579,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.8.1.ipa",
+      "version": "2.9.0",
+      "versionDate": "2026-10-24T11:41:55.280Z",
+      "size": 1895634,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.9.0.ipa",
       "appPermissions": {}
     },
     {
