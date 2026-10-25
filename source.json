@@ -69,6 +69,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.11.55",
+          "buildVersion": "55",
+          "localizedDescription": "New Live Activity look (app name, LIVE/FINAL, logos), game clock with minutes per half, opponent logos.",
+          "date": "2026-10-25T16:56:51.509Z",
+          "size": 1930252,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.11.55.ipa"
+        },
+        {
           "version": "2.5.47",
           "buildVersion": "47",
           "localizedDescription": "Tap the live score to open the scoring screen. After Done, the final score stays on the lock screen for 30 minutes.",
@@ -83,20 +91,12 @@
           "date": "2026-10-20T20:02:29.097Z",
           "size": 1882465,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.44.ipa"
-        },
-        {
-          "version": "2.5.43",
-          "buildVersion": "43",
-          "localizedDescription": "Dynamic Island test: start Score game on today's game and look at the Dynamic Island and lock screen.",
-          "date": "2026-10-20T19:19:05.196Z",
-          "size": 1882187,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.43.ipa"
         }
       ],
-      "version": "2.5.47",
-      "versionDate": "2026-10-20T20:17:37.235Z",
-      "size": 1898563,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.5.47.ipa",
+      "version": "2.11.55",
+      "versionDate": "2026-10-25T16:56:51.509Z",
+      "size": 1930252,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStatsBeta-2.11.55.ipa",
       "appPermissions": {}
     }
   ]
