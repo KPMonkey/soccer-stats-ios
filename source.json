@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.17.0",
+          "buildVersion": "63",
+          "localizedDescription": "- Fixed: tournaments showed as regular seasons, each one-off game started a\n  new \"Other games\" group, and the game clock ignored your minutes per half\n- One-off games are grouped by season period, e.g. \"Other games · Fall\n  2026\". The group is made automatically the first time and reused after\n  that, so there are never duplicates\n- Moving a game always offers the Other games group for that game's date,\n  even if it doesn't exist yet\n- New Summer period for seasons (June–July; Spring is March–May)",
+          "date": "2026-10-26T19:45:49.847Z",
+          "size": 1935295,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.0.ipa"
+        },
+        {
           "version": "2.16.0",
           "buildVersion": "62",
           "localizedDescription": "- Other games (one-off games) are now grouped in boxes by the team your\n  player played for, each with its own record, e.g. \"Indiana Elite Chicago\n  · 2 games · 1W 1L\". Slightly different spellings of a team go together\n- Moving a game into Other games keeps who it was played for. A guest game\n  moved there uses its guest team as \"Playing for\"",
@@ -43,20 +51,12 @@
           "date": "2026-10-26T12:38:35.808Z",
           "size": 1934391,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.14.0.ipa"
-        },
-        {
-          "version": "2.13.1",
-          "buildVersion": "58",
-          "localizedDescription": "- Saved tournaments are one tap: pick Tournament on a game and the\n  season's tournaments show as buttons. Switching a game to Tournament picks\n  the latest one automatically, so you only type a name once\n- \"League\" is now called \"Regular season\"",
-          "date": "2026-10-26T12:14:22.677Z",
-          "size": 1933965,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.1.ipa"
         }
       ],
-      "version": "2.16.0",
-      "versionDate": "2026-10-26T19:12:59.306Z",
-      "size": 1935155,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.16.0.ipa",
+      "version": "2.17.0",
+      "versionDate": "2026-10-26T19:45:49.847Z",
+      "size": 1935295,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.0.ipa",
       "appPermissions": {}
     },
     {
