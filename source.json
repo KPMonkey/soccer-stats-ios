@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.14.0",
+          "buildVersion": "59",
+          "localizedDescription": "- Results on a season's Events tab are now in boxes: Regular season, each\n  tournament, and Friendlies, each with its record and number of games\n- Tap a box's header to collapse or expand it; the app remembers which\n  ones you collapsed for each season",
+          "date": "2026-10-26T12:38:35.808Z",
+          "size": 1934391,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.14.0.ipa"
+        },
+        {
           "version": "2.13.1",
           "buildVersion": "58",
           "localizedDescription": "- Saved tournaments are one tap: pick Tournament on a game and the\n  season's tournaments show as buttons. Switching a game to Tournament picks\n  the latest one automatically, so you only type a name once\n- \"League\" is now called \"Regular season\"",
@@ -43,20 +51,12 @@
           "date": "2026-10-24T20:05:38.466Z",
           "size": 1898103,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.11.0.ipa"
-        },
-        {
-          "version": "2.10.0",
-          "buildVersion": "53",
-          "localizedDescription": "- Game recap: a \"Show milestones\" switch under the card takes the\n  milestones off the image you share. Your choice is remembered\n- The recap shows the score and milestones even before you tap Finish\n  scoring (it showed \"Final\" with no score)\n- Goals and assists both show their count on the recap, e.g. ⚽ × 6 👟 × 1\n- Closing the share sheet without sharing no longer shows an error",
-          "date": "2026-10-24T18:41:19.377Z",
-          "size": 1895851,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.10.0.ipa"
         }
       ],
-      "version": "2.13.1",
-      "versionDate": "2026-10-26T12:14:22.677Z",
-      "size": 1933965,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.1.ipa",
+      "version": "2.14.0",
+      "versionDate": "2026-10-26T12:38:35.808Z",
+      "size": 1934391,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.14.0.ipa",
       "appPermissions": {}
     },
     {
