@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.13.0",
+          "buildVersion": "57",
+          "localizedDescription": "- Game types inside a season: League, Tournament or Friendly (set it in a\n  game's Edit). Tournament games get a tournament name, e.g. Fall Classic\n- The Events tab can filter by type, and each tournament's results are\n  grouped together with that tournament's record\n- The season's record and standings count league games only; the Stats tab\n  shows a record for the league and each tournament\n- Finish scoring without going back to the Events list: Done on the scoring\n  screen asks to finish, and the recap has a Finish scoring button",
+          "date": "2026-10-26T01:54:15.772Z",
+          "size": 1933788,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.0.ipa"
+        },
+        {
           "version": "2.12.0",
           "buildVersion": "56",
           "localizedDescription": "- Tournaments: tap + on the home page → New tournament. Give it a name,\n  dates and the team name you're playing as, and add its own group of\n  kids. It has its own record and the usual Events, Team and Stats pages\n- One-off games: + → One-off game to log or score a single game. It's\n  saved under \"Other games\" for that year\n- The home page now has Seasons, Tournaments and Other games sections\n- Game clock on the scoring screen: start each half, pause, end the half.\n  It counts up, with the time left smaller below. Set minutes per half for\n  each team in Team tab → Edit\n- Opponent logos: add one from a game's Edit (under the opponent's name);\n  it shows on every game against that team\n- New Live Activity look: Soccer Stats name, LIVE / FINAL, team logos, and\n  the game clock ticking on the lock screen and in the Dynamic Island\n- The live score link page shows the logos and the clock too\n- Goals and assists in tournaments and one-off games count in career stats",
@@ -43,20 +51,12 @@
           "date": "2026-10-24T11:41:55.280Z",
           "size": 1895634,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.9.0.ipa"
-        },
-        {
-          "version": "2.8.1",
-          "buildVersion": "51",
-          "localizedDescription": "- Mark a game as \"Didn't play (missed this game)\" when your player wasn't\n  there. The result still counts toward the team's record and standings, but\n  it's left out of your player's games, goals, assists, milestones and\n  charts. The game gets a Missed tag\n- (2.8.0 never reached the iPhone app because GitHub's build Macs were\n  backed up; this is the same update)",
-          "date": "2026-10-21T14:15:45.943Z",
-          "size": 1895579,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.8.1.ipa"
         }
       ],
-      "version": "2.12.0",
-      "versionDate": "2026-10-25T17:23:38.274Z",
-      "size": 1932168,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.12.0.ipa",
+      "version": "2.13.0",
+      "versionDate": "2026-10-26T01:54:15.772Z",
+      "size": 1933788,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.0.ipa",
       "appPermissions": {}
     },
     {
