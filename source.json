@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.15.0",
+          "buildVersion": "61",
+          "localizedDescription": "- Move a game to another season: open the game and tap \"Move to another\n  season…\" at the bottom. The score, stats and play-by-play go with it.\n  Handy for games your player played for another team: make a season for\n  that team and move them there. A moved guest game stops being marked as\n  a guest game",
+          "date": "2026-10-26T19:02:33.251Z",
+          "size": 1934958,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.15.0.ipa"
+        },
+        {
           "version": "2.14.1",
           "buildVersion": "60",
           "localizedDescription": "- Save button at the top of the game form, so there's no scrolling to save\n- The selected tournament is shown in green with a check mark\n- Swiping back from the left edge no longer leaves the page stuck\n  part-scrolled with the header missing\n- Swiping back from a game form with unsaved changes now asks before\n  discarding them",
@@ -43,20 +51,12 @@
           "date": "2026-10-26T01:54:15.772Z",
           "size": 1933788,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.0.ipa"
-        },
-        {
-          "version": "2.12.0",
-          "buildVersion": "56",
-          "localizedDescription": "- Tournaments: tap + on the home page → New tournament. Give it a name,\n  dates and the team name you're playing as, and add its own group of\n  kids. It has its own record and the usual Events, Team and Stats pages\n- One-off games: + → One-off game to log or score a single game. It's\n  saved under \"Other games\" for that year\n- The home page now has Seasons, Tournaments and Other games sections\n- Game clock on the scoring screen: start each half, pause, end the half.\n  It counts up, with the time left smaller below. Set minutes per half for\n  each team in Team tab → Edit\n- Opponent logos: add one from a game's Edit (under the opponent's name);\n  it shows on every game against that team\n- New Live Activity look: Soccer Stats name, LIVE / FINAL, team logos, and\n  the game clock ticking on the lock screen and in the Dynamic Island\n- The live score link page shows the logos and the clock too\n- Goals and assists in tournaments and one-off games count in career stats",
-          "date": "2026-10-25T17:23:38.274Z",
-          "size": 1932168,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.12.0.ipa"
         }
       ],
-      "version": "2.14.1",
-      "versionDate": "2026-10-26T13:11:05.113Z",
-      "size": 1934623,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.14.1.ipa",
+      "version": "2.15.0",
+      "versionDate": "2026-10-26T19:02:33.251Z",
+      "size": 1934958,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.15.0.ipa",
       "appPermissions": {}
     },
     {
