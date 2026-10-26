@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.13.1",
+          "buildVersion": "58",
+          "localizedDescription": "- Saved tournaments are one tap: pick Tournament on a game and the\n  season's tournaments show as buttons. Switching a game to Tournament picks\n  the latest one automatically, so you only type a name once\n- \"League\" is now called \"Regular season\"",
+          "date": "2026-10-26T12:14:22.677Z",
+          "size": 1933965,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.1.ipa"
+        },
+        {
           "version": "2.13.0",
           "buildVersion": "57",
           "localizedDescription": "- Game types inside a season: League, Tournament or Friendly (set it in a\n  game's Edit). Tournament games get a tournament name, e.g. Fall Classic\n- The Events tab can filter by type, and each tournament's results are\n  grouped together with that tournament's record\n- The season's record and standings count league games only; the Stats tab\n  shows a record for the league and each tournament\n- Finish scoring without going back to the Events list: Done on the scoring\n  screen asks to finish, and the recap has a Finish scoring button",
@@ -43,20 +51,12 @@
           "date": "2026-10-24T18:41:19.377Z",
           "size": 1895851,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.10.0.ipa"
-        },
-        {
-          "version": "2.9.0",
-          "buildVersion": "52",
-          "localizedDescription": "- Today's games stay in Upcoming until you tap \"Finish scoring\" on the game\n  (or the day ends), so you can close and reopen scoring as often as you\n  like. Once scoring starts, the card shows \"In progress\" and the score\n- Saving a game's details (like ticking Guest player) no longer moves\n  today's game to Results",
-          "date": "2026-10-24T11:41:55.280Z",
-          "size": 1895634,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.9.0.ipa"
         }
       ],
-      "version": "2.13.0",
-      "versionDate": "2026-10-26T01:54:15.772Z",
-      "size": 1933788,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.0.ipa",
+      "version": "2.13.1",
+      "versionDate": "2026-10-26T12:14:22.677Z",
+      "size": 1933965,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.13.1.ipa",
       "appPermissions": {}
     },
     {
