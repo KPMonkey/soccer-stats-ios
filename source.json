@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.17.2",
+          "buildVersion": "65",
+          "localizedDescription": "- On the home page, Other games cards just show their period (e.g. \"Fall\n  2026\"), since the section is already called Other games",
+          "date": "2026-10-26T20:28:08.649Z",
+          "size": 1935545,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.2.ipa"
+        },
+        {
           "version": "2.17.1",
           "buildVersion": "64",
           "localizedDescription": "- Seasons on the home page show an icon for their period instead of a\n  soccer ball: 🍂 Fall, ❄️ Winter, 🌱 Spring, ☀️ Summer. Other games use\n  their period's icon on indigo; tournaments keep 🏆. A team photo still\n  replaces the icon",
@@ -43,20 +51,12 @@
           "date": "2026-10-26T19:02:33.251Z",
           "size": 1934958,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.15.0.ipa"
-        },
-        {
-          "version": "2.14.1",
-          "buildVersion": "60",
-          "localizedDescription": "- Save button at the top of the game form, so there's no scrolling to save\n- The selected tournament is shown in green with a check mark\n- Swiping back from the left edge no longer leaves the page stuck\n  part-scrolled with the header missing\n- Swiping back from a game form with unsaved changes now asks before\n  discarding them",
-          "date": "2026-10-26T13:11:05.113Z",
-          "size": 1934623,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.14.1.ipa"
         }
       ],
-      "version": "2.17.1",
-      "versionDate": "2026-10-26T19:52:16.421Z",
-      "size": 1935554,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.1.ipa",
+      "version": "2.17.2",
+      "versionDate": "2026-10-26T20:28:08.649Z",
+      "size": 1935545,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.2.ipa",
       "appPermissions": {}
     },
     {
