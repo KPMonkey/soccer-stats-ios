@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.18.0",
+          "buildVersion": "66",
+          "localizedDescription": "- Terms of Use and Privacy Policy, linked from sign-in, sign-up and the menu.\n  You'll be asked to agree once the next time you open the app\n- Delete my account (in the menu): removes your account and everything in it,\n  after offering a backup\n- Forgot password? on the sign-in page emails a reset link\n- New accounts get a verification email; the waiting screen lets you resend\n  it or confirm you've verified\n- Stop sharing a live score link from the scoring screen (📡 Live link →\n  Stop sharing)\n- Photo imports are limited to 20 a day per person\n- Contact support from the menu",
+          "date": "2026-10-29T14:12:07.037Z",
+          "size": 1941497,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.18.0.ipa"
+        },
+        {
           "version": "2.17.2",
           "buildVersion": "65",
           "localizedDescription": "- On the home page, Other games cards just show their period (e.g. \"Fall\n  2026\"), since the section is already called Other games",
@@ -43,20 +51,12 @@
           "date": "2026-10-26T19:12:59.306Z",
           "size": 1935155,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.16.0.ipa"
-        },
-        {
-          "version": "2.15.0",
-          "buildVersion": "61",
-          "localizedDescription": "- Move a game to another season: open the game and tap \"Move to another\n  season…\" at the bottom. The score, stats and play-by-play go with it.\n  Handy for games your player played for another team: make a season for\n  that team and move them there. A moved guest game stops being marked as\n  a guest game",
-          "date": "2026-10-26T19:02:33.251Z",
-          "size": 1934958,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.15.0.ipa"
         }
       ],
-      "version": "2.17.2",
-      "versionDate": "2026-10-26T20:28:08.649Z",
-      "size": 1935545,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.2.ipa",
+      "version": "2.18.0",
+      "versionDate": "2026-10-29T14:12:07.037Z",
+      "size": 1941497,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.18.0.ipa",
       "appPermissions": {}
     },
     {
