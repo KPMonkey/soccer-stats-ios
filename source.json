@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.19.0",
+          "buildVersion": "67",
+          "localizedDescription": "- Admin: each approved user now shows a usage summary, with photo imports\n  (today, this week, 30 days, and a 14-day chart) and how many groups, games,\n  players and live links they have. It shows counts only, never the data\n  itself, and flags accounts that look like spam.\n- Privacy Policy: explains that an admin can see these counts.",
+          "date": "2026-10-29T15:34:13.541Z",
+          "size": 1942511,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.19.0.ipa"
+        },
+        {
           "version": "2.18.0",
           "buildVersion": "66",
           "localizedDescription": "- Terms of Use and Privacy Policy, linked from sign-in, sign-up and the menu.\n  You'll be asked to agree once the next time you open the app\n- Delete my account (in the menu): removes your account and everything in it,\n  after offering a backup\n- Forgot password? on the sign-in page emails a reset link\n- New accounts get a verification email; the waiting screen lets you resend\n  it or confirm you've verified\n- Stop sharing a live score link from the scoring screen (📡 Live link →\n  Stop sharing)\n- Photo imports are limited to 20 a day per person\n- Contact support from the menu",
@@ -43,20 +51,12 @@
           "date": "2026-10-26T19:45:49.847Z",
           "size": 1935295,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.0.ipa"
-        },
-        {
-          "version": "2.16.0",
-          "buildVersion": "62",
-          "localizedDescription": "- Other games (one-off games) are now grouped in boxes by the team your\n  player played for, each with its own record, e.g. \"Indiana Elite Chicago\n  · 2 games · 1W 1L\". Slightly different spellings of a team go together\n- Moving a game into Other games keeps who it was played for. A guest game\n  moved there uses its guest team as \"Playing for\"",
-          "date": "2026-10-26T19:12:59.306Z",
-          "size": 1935155,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.16.0.ipa"
         }
       ],
-      "version": "2.18.0",
-      "versionDate": "2026-10-29T14:12:07.037Z",
-      "size": 1941497,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.18.0.ipa",
+      "version": "2.19.0",
+      "versionDate": "2026-10-29T15:34:13.541Z",
+      "size": 1942511,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.19.0.ipa",
       "appPermissions": {}
     },
     {
