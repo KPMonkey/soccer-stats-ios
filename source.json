@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.22.0",
+          "buildVersion": "70",
+          "localizedDescription": "- Swipe left on any play in Play by play to delete it, not just the last\n  one. The score and the player's totals update to match\n- Going back (or swiping back) from a game's recap now goes to the team's\n  Events, not back into the scoring screen",
+          "date": "2026-11-02T00:29:30.090Z",
+          "size": 1952998,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.0.ipa"
+        },
+        {
           "version": "2.21.0",
           "buildVersion": "69",
           "localizedDescription": "- Kickoff countdown: in the hour before a game, opening the app (for example\n  from the 1-hour reminder) puts a \"Kickoff in 59:48\" countdown with both\n  logos on the lock screen and in the Dynamic Island. It keeps counting with\n  the app closed, and turns into the live score when you tap Score game\n- Fixed: the live score on the lock screen could be blank until the first\n  goal or clock change",
@@ -43,20 +51,12 @@
           "date": "2026-10-29T14:12:07.037Z",
           "size": 1941497,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.18.0.ipa"
-        },
-        {
-          "version": "2.17.2",
-          "buildVersion": "65",
-          "localizedDescription": "- On the home page, Other games cards just show their period (e.g. \"Fall\n  2026\"), since the section is already called Other games",
-          "date": "2026-10-26T20:28:08.649Z",
-          "size": 1935545,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.17.2.ipa"
         }
       ],
-      "version": "2.21.0",
-      "versionDate": "2026-11-01T15:52:44.315Z",
-      "size": 1952966,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.21.0.ipa",
+      "version": "2.22.0",
+      "versionDate": "2026-11-02T00:29:30.090Z",
+      "size": 1952998,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.0.ipa",
       "appPermissions": {}
     },
     {
