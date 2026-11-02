@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.22.1",
+          "buildVersion": "71",
+          "localizedDescription": "- Finishing scoring now turns the game's live link off. Anyone already\n  watching keeps seeing the final score; the link stops working after that",
+          "date": "2026-11-02T02:27:24.321Z",
+          "size": 1953096,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.1.ipa"
+        },
+        {
           "version": "2.22.0",
           "buildVersion": "70",
           "localizedDescription": "- Swipe left on any play in Play by play to delete it, not just the last\n  one. The score and the player's totals update to match\n- Going back (or swiping back) from a game's recap now goes to the team's\n  Events, not back into the scoring screen",
@@ -43,20 +51,12 @@
           "date": "2026-10-29T15:34:13.541Z",
           "size": 1942511,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.19.0.ipa"
-        },
-        {
-          "version": "2.18.0",
-          "buildVersion": "66",
-          "localizedDescription": "- Terms of Use and Privacy Policy, linked from sign-in, sign-up and the menu.\n  You'll be asked to agree once the next time you open the app\n- Delete my account (in the menu): removes your account and everything in it,\n  after offering a backup\n- Forgot password? on the sign-in page emails a reset link\n- New accounts get a verification email; the waiting screen lets you resend\n  it or confirm you've verified\n- Stop sharing a live score link from the scoring screen (📡 Live link →\n  Stop sharing)\n- Photo imports are limited to 20 a day per person\n- Contact support from the menu",
-          "date": "2026-10-29T14:12:07.037Z",
-          "size": 1941497,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.18.0.ipa"
         }
       ],
-      "version": "2.22.0",
-      "versionDate": "2026-11-02T00:29:30.090Z",
-      "size": 1952998,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.0.ipa",
+      "version": "2.22.1",
+      "versionDate": "2026-11-02T02:27:24.321Z",
+      "size": 1953096,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.1.ipa",
       "appPermissions": {}
     },
     {
