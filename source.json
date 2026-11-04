@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.23.1",
+          "buildVersion": "73",
+          "localizedDescription": "The 2.23.0 iPhone build couldn't run, so this is the same release:\n\n- When the half's time is up, the game clock asks whether to end the half.\n  Yes goes to halftime (or full time); No keeps the clock running, and you\n  can end the half yourself whenever you're ready\n- One running clock for leagues with no halves (e.g. winter indoor): in a\n  team's Edit, choose \"One running clock\" and set the game length",
+          "date": "2026-11-04T17:43:15.816Z",
+          "size": 1953386,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.23.1.ipa"
+        },
+        {
           "version": "2.22.1",
           "buildVersion": "71",
           "localizedDescription": "- Finishing scoring now turns the game's live link off. Anyone already\n  watching keeps seeing the final score; the link stops working after that",
@@ -43,20 +51,12 @@
           "date": "2026-10-29T16:02:26.119Z",
           "size": 1943352,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.20.0.ipa"
-        },
-        {
-          "version": "2.19.0",
-          "buildVersion": "67",
-          "localizedDescription": "- Admin: each approved user now shows a usage summary, with photo imports\n  (today, this week, 30 days, and a 14-day chart) and how many groups, games,\n  players and live links they have. It shows counts only, never the data\n  itself, and flags accounts that look like spam.\n- Privacy Policy: explains that an admin can see these counts.",
-          "date": "2026-10-29T15:34:13.541Z",
-          "size": 1942511,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.19.0.ipa"
         }
       ],
-      "version": "2.22.1",
-      "versionDate": "2026-11-02T02:27:24.321Z",
-      "size": 1953096,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.1.ipa",
+      "version": "2.23.1",
+      "versionDate": "2026-11-04T17:43:15.816Z",
+      "size": 1953386,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.23.1.ipa",
       "appPermissions": {}
     },
     {
