@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.25.1",
+          "buildVersion": "76",
+          "localizedDescription": "- In the play-by-play, teammate and opponent goals now read like your player's: \"Goal · Teammate\" and \"Goal · \" with the other team's name.",
+          "date": "2026-11-07T23:16:10.888Z",
+          "size": 1953808,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.1.ipa"
+        },
+        {
           "version": "2.25.0",
           "buildVersion": "75",
           "localizedDescription": "- Games you scored live now show their play-by-play on the game's page: every goal, assist, shot and card in order, with the time it happened.\n- Goals in the play-by-play show the score right after them, on the game's page and while scoring live.",
@@ -43,20 +51,12 @@
           "date": "2026-11-02T02:27:24.321Z",
           "size": 1953096,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.1.ipa"
-        },
-        {
-          "version": "2.22.0",
-          "buildVersion": "70",
-          "localizedDescription": "- Swipe left on any play in Play by play to delete it, not just the last\n  one. The score and the player's totals update to match\n- Going back (or swiping back) from a game's recap now goes to the team's\n  Events, not back into the scoring screen",
-          "date": "2026-11-02T00:29:30.090Z",
-          "size": 1952998,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.0.ipa"
         }
       ],
-      "version": "2.25.0",
-      "versionDate": "2026-11-07T22:59:18.942Z",
-      "size": 1953750,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.0.ipa",
+      "version": "2.25.1",
+      "versionDate": "2026-11-07T23:16:10.888Z",
+      "size": 1953808,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.1.ipa",
       "appPermissions": {}
     },
     {
