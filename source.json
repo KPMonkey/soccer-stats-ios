@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.25.2",
+          "buildVersion": "77",
+          "localizedDescription": "- In the play-by-play, your player's goals now use the same green dot as the rest of the team's goals.",
+          "date": "2026-11-07T23:26:41.323Z",
+          "size": 1953807,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.2.ipa"
+        },
+        {
           "version": "2.25.1",
           "buildVersion": "76",
           "localizedDescription": "- In the play-by-play, teammate and opponent goals now read like your player's: \"Goal · Teammate\" and \"Goal · \" with the other team's name.",
@@ -43,20 +51,12 @@
           "date": "2026-11-04T17:43:15.816Z",
           "size": 1953386,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.23.1.ipa"
-        },
-        {
-          "version": "2.22.1",
-          "buildVersion": "71",
-          "localizedDescription": "- Finishing scoring now turns the game's live link off. Anyone already\n  watching keeps seeing the final score; the link stops working after that",
-          "date": "2026-11-02T02:27:24.321Z",
-          "size": 1953096,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.1.ipa"
         }
       ],
-      "version": "2.25.1",
-      "versionDate": "2026-11-07T23:16:10.888Z",
-      "size": 1953808,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.1.ipa",
+      "version": "2.25.2",
+      "versionDate": "2026-11-07T23:26:41.323Z",
+      "size": 1953807,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.2.ipa",
       "appPermissions": {}
     },
     {
