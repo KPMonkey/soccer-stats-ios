@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.25.0",
+          "buildVersion": "75",
+          "localizedDescription": "- Games you scored live now show their play-by-play on the game's page: every goal, assist, shot and card in order, with the time it happened.\n- Goals in the play-by-play show the score right after them, on the game's page and while scoring live.",
+          "date": "2026-11-07T22:59:18.942Z",
+          "size": 1953750,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.0.ipa"
+        },
+        {
           "version": "2.24.0",
           "buildVersion": "74",
           "localizedDescription": "- Milestones now work per season as well as across a whole career. A new\n  season or a winter team says \"First goal of Winter 2026–27\" instead of\n  \"First goal for <team>\"\n- New milestones: first career goal and assist, and every 5 goals in a\n  season or tournament\n- Scoring streaks count per team, so a winter team's games don't join up\n  with the fall club's",
@@ -43,20 +51,12 @@
           "date": "2026-11-02T00:29:30.090Z",
           "size": 1952998,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.22.0.ipa"
-        },
-        {
-          "version": "2.21.0",
-          "buildVersion": "69",
-          "localizedDescription": "- Kickoff countdown: in the hour before a game, opening the app (for example\n  from the 1-hour reminder) puts a \"Kickoff in 59:48\" countdown with both\n  logos on the lock screen and in the Dynamic Island. It keeps counting with\n  the app closed, and turns into the live score when you tap Score game\n- Fixed: the live score on the lock screen could be blank until the first\n  goal or clock change",
-          "date": "2026-11-01T15:52:44.315Z",
-          "size": 1952966,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.21.0.ipa"
         }
       ],
-      "version": "2.24.0",
-      "versionDate": "2026-11-07T21:04:45.818Z",
-      "size": 1953539,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.24.0.ipa",
+      "version": "2.25.0",
+      "versionDate": "2026-11-07T22:59:18.942Z",
+      "size": 1953750,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.0.ipa",
       "appPermissions": {}
     },
     {
