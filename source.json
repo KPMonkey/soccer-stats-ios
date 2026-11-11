@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.25.3",
+          "buildVersion": "78",
+          "localizedDescription": "- Duplicate match now tells you it worked: the copy opens at the top with a note that you're editing the new copy.",
+          "date": "2026-11-11T13:57:43.525Z",
+          "size": 1953937,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.3.ipa"
+        },
+        {
           "version": "2.25.2",
           "buildVersion": "77",
           "localizedDescription": "- In the play-by-play, your player's goals now use the same green dot as the rest of the team's goals.",
@@ -43,20 +51,12 @@
           "date": "2026-11-07T21:04:45.818Z",
           "size": 1953539,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.24.0.ipa"
-        },
-        {
-          "version": "2.23.1",
-          "buildVersion": "73",
-          "localizedDescription": "The 2.23.0 iPhone build couldn't run, so this is the same release:\n\n- When the half's time is up, the game clock asks whether to end the half.\n  Yes goes to halftime (or full time); No keeps the clock running, and you\n  can end the half yourself whenever you're ready\n- One running clock for leagues with no halves (e.g. winter indoor): in a\n  team's Edit, choose \"One running clock\" and set the game length",
-          "date": "2026-11-04T17:43:15.816Z",
-          "size": 1953386,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.23.1.ipa"
         }
       ],
-      "version": "2.25.2",
-      "versionDate": "2026-11-07T23:26:41.323Z",
-      "size": 1953807,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.2.ipa",
+      "version": "2.25.3",
+      "versionDate": "2026-11-11T13:57:43.525Z",
+      "size": 1953937,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.3.ipa",
       "appPermissions": {}
     },
     {
