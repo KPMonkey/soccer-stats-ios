@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.26.0",
+          "buildVersion": "79",
+          "localizedDescription": "- The home screen groups everything by season and year (Winter 2026–27, Fall 2026, …), newest first, with that period's seasons, tournaments and other games together.\n- One-off games can now be marked as a tournament game, with the tournament's name, just like games in a season.\n- Tournament and friendly tags now show on one-off game results inside each team's box.",
+          "date": "2026-11-11T14:19:01.396Z",
+          "size": 1954069,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.26.0.ipa"
+        },
+        {
           "version": "2.25.3",
           "buildVersion": "78",
           "localizedDescription": "- Duplicate match now tells you it worked: the copy opens at the top with a note that you're editing the new copy.",
@@ -43,20 +51,12 @@
           "date": "2026-11-07T22:59:18.942Z",
           "size": 1953750,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.0.ipa"
-        },
-        {
-          "version": "2.24.0",
-          "buildVersion": "74",
-          "localizedDescription": "- Milestones now work per season as well as across a whole career. A new\n  season or a winter team says \"First goal of Winter 2026–27\" instead of\n  \"First goal for <team>\"\n- New milestones: first career goal and assist, and every 5 goals in a\n  season or tournament\n- Scoring streaks count per team, so a winter team's games don't join up\n  with the fall club's",
-          "date": "2026-11-07T21:04:45.818Z",
-          "size": 1953539,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.24.0.ipa"
         }
       ],
-      "version": "2.25.3",
-      "versionDate": "2026-11-11T13:57:43.525Z",
-      "size": 1953937,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.3.ipa",
+      "version": "2.26.0",
+      "versionDate": "2026-11-11T14:19:01.396Z",
+      "size": 1954069,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.26.0.ipa",
       "appPermissions": {}
     },
     {
