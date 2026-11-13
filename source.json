@@ -13,6 +13,14 @@
       "tintColor": "166534",
       "versions": [
         {
+          "version": "2.27.0",
+          "buildVersion": "80",
+          "localizedDescription": "- Set a different game length for one game, such as shorter tournament games. Edit the game and change Minutes per half; leave it blank to use the season's usual length. The game clock, live page and lock-screen clock follow it.",
+          "date": "2026-11-13T13:30:41.385Z",
+          "size": 1954273,
+          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.27.0.ipa"
+        },
+        {
           "version": "2.26.0",
           "buildVersion": "79",
           "localizedDescription": "- The home screen groups everything by season and year (Winter 2026–27, Fall 2026, …), newest first, with that period's seasons, tournaments and other games together.\n- One-off games can now be marked as a tournament game, with the tournament's name, just like games in a season.\n- Tournament and friendly tags now show on one-off game results inside each team's box.",
@@ -43,20 +51,12 @@
           "date": "2026-11-07T23:16:10.888Z",
           "size": 1953808,
           "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.1.ipa"
-        },
-        {
-          "version": "2.25.0",
-          "buildVersion": "75",
-          "localizedDescription": "- Games you scored live now show their play-by-play on the game's page: every goal, assist, shot and card in order, with the time it happened.\n- Goals in the play-by-play show the score right after them, on the game's page and while scoring live.",
-          "date": "2026-11-07T22:59:18.942Z",
-          "size": 1953750,
-          "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.25.0.ipa"
         }
       ],
-      "version": "2.26.0",
-      "versionDate": "2026-11-11T14:19:01.396Z",
-      "size": 1954069,
-      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.26.0.ipa",
+      "version": "2.27.0",
+      "versionDate": "2026-11-13T13:30:41.385Z",
+      "size": 1954273,
+      "downloadURL": "https://raw.githubusercontent.com/KPMonkey/soccer-stats-ios/main/ipa/SoccerStats-2.27.0.ipa",
       "appPermissions": {}
     },
     {
